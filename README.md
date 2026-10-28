@@ -4,7 +4,7 @@ Estudante de Engenharia de Software (Estácio, formatura prevista em jan/2028) e
 
 ## O que eu construo
 
-**[Fique no Azul](https://fiqueinoazul.com.br)** — app de controle financeiro pessoal, feito do zero e lançado por mim. Uma frase como "50 mercado ontem nubank 3x" vira um lançamento categorizado, a IA lê a fatura do cartão em PDF de qualquer banco e um bot de WhatsApp registra gastos por mensagem. Kotlin, Spring Boot, Vue 3 e PostgreSQL.
+**[Fiquei no Azul](https://fiqueinoazul.com.br)** — app de controle financeiro pessoal, feito do zero e lançado por mim. Uma frase como "50 mercado ontem nubank 3x" vira um lançamento categorizado, a IA lê a fatura do cartão em PDF de qualquer banco e um bot de WhatsApp registra gastos por mensagem. Kotlin, Spring Boot, Vue 3 e PostgreSQL.
 
 **HS Desk (trabalho)** — na Hardsystem Informática, trabalho no HS Desk, uma plataforma de helpdesk multi-tenant, do back-end ao front-end:
 - **API (Laravel 11, DDD):** schemas de banco isolados por cliente, trilha de auditoria imutável com triggers do PostgreSQL, cobrança recorrente com Stripe e filas com Redis e Horizon.
